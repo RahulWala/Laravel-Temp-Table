@@ -3,8 +3,6 @@ Create Temp table in laravel
 
 ## How to create Temp Table in Laravel using Query Builder
 
-Add **$table->temporary();** in migration up() function
-
 Code for Temp Table fetch and insert
 
   ### Add Column
